@@ -1,5 +1,7 @@
 # spotify-mcp MCP server
 
+[![smithery badge](https://smithery.ai/badge/@boristopalov/spotify-mcp)](https://smithery.ai/server/@boristopalov/spotify-mcp)
+
 MCP project to connect Claude with Spotify. Built on top of [spotipy-dev's API](https://github.com/spotipy-dev/spotipy/tree/2.24.0).
 
 ## Features
